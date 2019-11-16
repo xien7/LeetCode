@@ -1,4 +1,4 @@
-package com.xien.leetcode.easy.no3;
+package com.xien.leetcode.no3;
 
 import java.util.HashMap;
 import java.util.Map;
